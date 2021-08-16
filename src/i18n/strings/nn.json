@@ -1227,7 +1227,7 @@
     "Server or user ID to ignore": "Tenar eller brukar-ID for å ignorere",
     "If this isn't what you want, please use a different tool to ignore users.": "Om det ikkje var dette du ville, bruk eit anna verktøy til å ignorera brukarar.",
     "Enter the name of a new server you want to explore.": "Skriv inn namn på ny tenar du ynskjer å utforske.",
-    "Matrix rooms": "Matrix-rom",
+    "Vnete rooms": "Vnete-rom",
     "If there is additional context that would help in analysing the issue, such as what you were doing at the time, room IDs, user IDs, etc., please include those things here.": "Om du har meir info rundt korleis problemet oppstod, som kva du prøvde å gjere på det tidspunktet, brukar-IDar m.m ,inkluder gjerne den informasjonen her.",
     "Topic (optional)": "Emne (valfritt)",
     "To help avoid duplicate issues, please <existingIssuesLink>view existing issues</existingIssuesLink> first (and add a +1) or <newIssueLink>create a new issue</newIssueLink> if you can't find it.": "For å unngå duplikate feilrapportar, sjekk <existingIssuesLink>eksisterande innmeldte feil</existingIssuesLink> fyrst (og legg på ein +1) eller <newIssueLink>meld inn ny feil</newIssueLink> viss du ikkje finn den der.",

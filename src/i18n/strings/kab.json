@@ -1383,7 +1383,7 @@
     "Enter the name of a new server you want to explore.": "Sekcem isem n uqeddac amaynut i tebɣiḍ ad tesnirmeḍ.",
     "Add a new server...": "Rnu aqeddac amaynut...",
     "%(networkName)s rooms": "Tixxamin %(networkName)s",
-    "Matrix rooms": "Tixxamin n Matrix",
+    "Vnete rooms": "Tixxamin n Vnete",
     "That doesn't look like a valid email address": "Ur tettban ara d tansa n yimayl tameɣtut",
     "You have entered an invalid address.": "Teskecmeḍ tansa n yimayl tarameɣtut.",
     "Try using one of the following valid address types: %(validTypesList)s.": "Ɛreḍ ad tesqedceḍ yiwen seg wanawen n tansa tameɣtut i d-iteddun: %(validTypesList)s.",

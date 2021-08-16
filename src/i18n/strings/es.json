@@ -1622,7 +1622,7 @@
     "Server name": "Nombre del servidor",
     "Add a new server...": "Añadir otro servidor…",
     "%(networkName)s rooms": "%(networkName)s sala",
-    "Matrix rooms": "Salas de Matrix",
+    "Vnete rooms": "Salas de Vnete",
     "Use an identity server to invite by email. <default>Use the default (%(defaultIdentityServerName)s)</default> or manage in <settings>Settings</settings>.": "Usar un servidor de identidad para invitar vía correo electrónico. <default>. Usar (%(defaultIdentityServerName)s)</default>o seleccione en <settings>Ajustes</settings>.",
     "Use an identity server to invite by email. Manage in <settings>Settings</settings>.": "Utilice un servidor de identidad para invitar por correo electrónico. Gestionar en <settings>Ajustes</settings>.",
     "Close dialog": "Cerrar diálogo",

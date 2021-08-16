@@ -1954,7 +1954,7 @@
     "Server name": "服务器名",
     "Add a new server...": "添加新服务器…",
     "%(networkName)s rooms": "%(networkName)s 的聊天室",
-    "Matrix rooms": "Matrix 聊天室",
+    "Vnete rooms": "Vnete 聊天室",
     "Use an identity server to invite by email. <default>Use the default (%(defaultIdentityServerName)s)</default> or manage in <settings>Settings</settings>.": "使用一个身份服务器以通过邮箱邀请。<default>使用默认（%(defaultIdentityServerName)s）</default>或在<settings>设置</settings>中管理。",
     "Use an identity server to invite by email. Manage in <settings>Settings</settings>.": "使用一个身份服务器以通过邮箱邀请。在<settings>设置</settings>中管理。",
     "Close dialog": "关闭对话框",

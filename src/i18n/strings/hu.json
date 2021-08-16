@@ -2022,7 +2022,7 @@
     "Server name": "Szerver neve",
     "Add a new server...": "Új szerver hozzáadása…",
     "%(networkName)s rooms": "%(networkName)s szobák",
-    "Matrix rooms": "Matrix szobák",
+    "Vnete rooms": "Vnete szobák",
     "Start a conversation with someone using their name, username (like <userId/>) or email address.": "Indíts beszélgetést valakinek a nevével, felhasználói nevével (mint <userId/>) vagy e-mail címével.",
     "a new master key signature": "az új mester kulcs aláírás",
     "a new cross-signing key signature": "az új eszközök közötti kulcs aláírása",

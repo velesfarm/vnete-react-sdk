@@ -1626,7 +1626,7 @@
     "You might enable this if the room will only be used for collaborating with internal teams on your homeserver. This cannot be changed later.": "Możesz ustawić tę opcję, jeżeli pokój będzie używany wyłącznie do współpracy wewnętrznych zespołów na Twoim serwerze. To nie może być później zmienione.",
     "Block anyone not part of %(serverName)s from ever joining this room.": "Zablokuj wszystkich niebędących użytkownikami %(serverName)s w tym pokoju.",
     "You can’t disable this later. Bridges & most bots won’t work yet.": "Nie możesz wyłączyć tego później. Mostki i większość botów nie będą działać.",
-    "Matrix rooms": "Pokoje Matrix",
+    "Vnete rooms": "Pokoje Vnete",
     "Start a conversation with someone using their name or username (like <userId/>).": "Rozpocznij konwersację z innymi korzystając z ich nazwy lub nazwy użytkownika (np. <userId/>).",
     "Start a conversation with someone using their name, email address or username (like <userId/>).": "Rozpocznij konwersację z innymi korzystając z ich nazwy, adresu e-mail lub nazwy użytkownika (np. <userId/>).",
     "Show %(count)s more|one": "Pokaż %(count)s więcej",

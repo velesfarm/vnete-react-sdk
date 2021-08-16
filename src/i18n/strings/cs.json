@@ -2062,7 +2062,7 @@
     "Server name": "Jméno serveru",
     "Add a new server...": "Přidat nový server...",
     "%(networkName)s rooms": "místnosti v %(networkName)s",
-    "Matrix rooms": "místnosti na Matrixu",
+    "Vnete rooms": "místnosti na Vnete",
     "Enable end-to-end encryption": "Povolit E2E šifrování",
     "You can’t disable this later. Bridges & most bots won’t work yet.": "Toto nelze později vypnout. Většina botů a propojení zatím nefunguje.",
     "Server did not require any authentication": "Server nevyžadoval žádné ověření",

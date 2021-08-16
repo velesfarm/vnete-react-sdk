@@ -2008,7 +2008,7 @@
     "Server name": "Nome server",
     "Add a new server...": "Aggiungi un nuovo server...",
     "%(networkName)s rooms": "Stanze di %(networkName)s",
-    "Matrix rooms": "Stanze di Matrix",
+    "Vnete rooms": "Stanze di Vnete",
     "Keyboard Shortcuts": "Scorciatoie da tastiera",
     "Start a conversation with someone using their name, username (like <userId/>) or email address.": "Inizia una conversazione con qualcuno usando il suo nome, nome utente (come <userId/>) o indirizzo email.",
     "a new master key signature": "una nuova firma della chiave principale",

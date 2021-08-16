@@ -1935,7 +1935,7 @@
     "Server name": "Servername",
     "Add a new server...": "Füge einen Server hinzu...",
     "%(networkName)s rooms": "%(networkName)s Räume",
-    "Matrix rooms": "Matrixräume",
+    "Vnete rooms": "Vneteräume",
     "Close dialog": "Dialog schließen",
     "Please tell us what went wrong or, better, create a GitHub issue that describes the problem.": "Bitte teile uns mit, was schief lief - oder besser, beschreibe das Problem auf GitHub in einem \"Issue\".",
     "Reminder: Your browser is unsupported, so your experience may be unpredictable.": "Warnung: Dein Browser wird nicht unterstützt. Die Anwendung kann instabil sein.",

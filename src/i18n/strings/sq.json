@@ -2000,7 +2000,7 @@
     "Server name": "Emër shërbyesi",
     "Add a new server...": "Shtoni një shërbyes të ri…",
     "%(networkName)s rooms": "Dhoma %(networkName)s",
-    "Matrix rooms": "Dhoma Matrix",
+    "Vnete rooms": "Dhoma Vnete",
     "Reset cross-signing and secret storage": "Rikthe te parazgjedhjet <em>cross-signing</em> dhe depozitën e fshehtë",
     "Keyboard Shortcuts": "Shkurtore Tastiere",
     "Matrix": "Matrix",

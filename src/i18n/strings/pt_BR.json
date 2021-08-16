@@ -1740,7 +1740,7 @@
     "Looks good": "Muito bem",
     "Are you sure you want to remove <b>%(serverName)s</b>": "Tem certeza de que deseja remover <b>%(serverName)s</b>",
     "%(networkName)s rooms": "Salas em %(networkName)s",
-    "Matrix rooms": "Salas em Matrix",
+    "Vnete rooms": "Salas em Vnete",
     "Close dialog": "Fechar caixa de diálogo",
     "GitHub issue": "Bilhete de erro no GitHub",
     "If there is additional context that would help in analysing the issue, such as what you were doing at the time, room IDs, user IDs, etc., please include those things here.": "Se houver um contexto adicional que ajude a analisar o problema, tal como o que você estava fazendo no momento, IDs de salas, IDs de usuários etc, inclua essas coisas aqui.",
